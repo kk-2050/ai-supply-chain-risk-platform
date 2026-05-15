@@ -17,6 +17,7 @@ The platform automatically collects supply chain news, analyzes risk using AI, s
 ## Live Demo
 
 - **Dashboard:** https://kk-2050.github.io/ai-supply-chain-risk-platform/dashboard/
+- **Presentation:** https://gamma.app/docs/From-news-to-action-in-minutes-not-days-4cynpuc6vw9wdww
 - **Workflow:** n8n Cloud (Published / Active)
 
 ---
